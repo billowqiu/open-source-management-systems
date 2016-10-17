@@ -43,6 +43,8 @@ Contributions from:
 * [Prometheus](http://prometheus.io/)
 * [Heka](https://github.com/mozilla-services/heka)
 * [Bosun](https://bosun.org/)
+* [Graphite-beacon](https://github.com/klen/graphite-beacon)
+* [Cabot](http://cabotapp.com/)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
@@ -81,6 +83,7 @@ Contributions from:
 * [StatusWolf](https://github.com/box/StatusWolf)
 * [Dashing](http://shopify.github.io/dashing/)
 * [Tessera](https://github.com/urbanairship/tessera)
+* [Grafana](http://grafana.org/)
 
 ###Packaging
 * [0Install](http://0install.net/) - (all platforms)
