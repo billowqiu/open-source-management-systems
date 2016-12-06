@@ -29,7 +29,6 @@ Contributions from:
 * [Monit](http://mmonit.com/monit/)
 * [Xymon (aka Hobbit)](http://xymon.sourceforge.net/)
 * [Centreon](http://www.centreon.com/)
-* [OpenTSDB](http://opentsdb.net/)
 * [Overwatch](https://github.com/danryan/overwatch)
 * [Critical](https://github.com/danielsdeleo/critical)
 * [ExtremeMon](https://extremon.org/)
@@ -45,6 +44,12 @@ Contributions from:
 * [Bosun](https://bosun.org/)
 * [Graphite-beacon](https://github.com/klen/graphite-beacon)
 * [Cabot](http://cabotapp.com/)
+* [Munin](http://munin-monitoring.org)
+* [Heroic](https://spotify.github.io/heroic)
+
+### Time Series Database
+* [OpenTSDB](http://opentsdb.net/)
+* [InfluxData](https://www.influxdata.com)
 
 ###Log Files
 * [Flume](https://cwiki.apache.org/FLUME/)
